@@ -9,7 +9,7 @@
 
 <h3 align="center">- 🌱 I’m currently learning Python and PowerShell</h3>
 
-<h3 align="center">- 👨‍💻 All of my projects are available at [www.github.com\citizen27\]</h3>
+<h3 align="center">- 👨‍💻 All of my projects are available here</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
