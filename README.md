@@ -7,7 +7,7 @@
 
 <h3 align="center">- 🔭 I’m currently working on **CLaPT**</h3>
 
-<h3 align="center">- 🌱 I’m currently learning **Python and Java**</h3>
+<h3 align="center">- 🌱 I’m currently learning Python and PowerShell</h3>
 
 <h3 align="center">- 👨‍💻 All of my projects are available at [www.github.com\citizen27\]</h3>
 
