@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just another script kiddie :)
+Just another script kiddie and PowerShell fanboy and working to provide faster data intelligence.
 
 
 ## 🌐 Socials:
