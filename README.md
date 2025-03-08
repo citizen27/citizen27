@@ -13,8 +13,6 @@ DFIR script kiddie and PowerShell fanboy working to provide faster data intellig
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) 
 ![OSINT](https://img.shields.io/badge/OSINT-0096FF?style=for-the-badge) 
 ![Suricata](https://img.shields.io/badge/Suricata-FF5733?style=for-the-badge) 
-![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge) 
-![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge) 
 ![The Sleuth Kit](https://img.shields.io/badge/TheSleuthKit-004488?style=for-the-badge) 
 ![CyberChef](https://img.shields.io/badge/CyberChef-0078D7?style=for-the-badge) 
 ![YARA](https://img.shields.io/badge/YARA-660066?style=for-the-badge) 
