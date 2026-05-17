@@ -1,5 +1,5 @@
 # 💫 About Me:
-DFIR script kiddie and PowerShell fanboy working to provide faster data intelligence.
+DFIR script kiddie and PowerShell fanboy working to provide faster data intelligence. Trying AI garbanzo like everyone else.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-rodjenski) 
